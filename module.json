@@ -1,0 +1,254 @@
+{
+  "name": "hm3-cpl",
+  "title": "Harn Comprehensive Price Lists",
+  "description": "Provides lists of items from the Comprehensive Price Lists on Lythia.com",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.7.7",
+  "author": "toastygm",
+  "packs": [
+    {
+      "name": "cpl-apothecary.db",
+      "label": "CPL - Apothecary",
+      "path": "packs/cpl-apothecary.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-bonecarver.db",
+      "label": "CPL - Bonecarver",
+      "path": "packs/cpl-bonecarver.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-chandler.db",
+      "label": "CPL - Chandler",
+      "path": "packs/cpl-chandler.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-clothier.db",
+      "label": "CPL - Clothier",
+      "path": "packs/cpl-clothier.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-dyer.db",
+      "label": "CPL - Dyer",
+      "path": "packs/cpl-dyer.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-glassworker.db",
+      "label": "CPL - Glassworker",
+      "path": "packs/cpl-glassworker.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-harper.db",
+      "label": "CPL - Harper",
+      "path": "packs/cpl-harper.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-hideworker.db",
+      "label": "CPL - Hideworker",
+      "path": "packs/cpl-hideworker.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-innkeeper.db",
+      "label": "CPL - Innkeeper",
+      "path": "packs/cpl-innkeeper.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-jeweler.db",
+      "label": "CPL - Jeweler",
+      "path": "packs/cpl-jeweler.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-lexigrapher.db",
+      "label": "CPL - Lexigrapher",
+      "path": "packs/cpl-lexigrapher.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-market-butcher.db",
+      "label": "CPL - Market Butcher",
+      "path": "packs/cpl-market-butcher.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-market-farmer.db",
+      "label": "CPL - Market Farmer",
+      "path": "packs/cpl-market-farmer.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-market-fisherman.db",
+      "label": "CPL - Market Fisherman",
+      "path": "packs/cpl-market-fisherman.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-market-greengrocer.db",
+      "label": "CPL - Market Greengrocer",
+      "path": "packs/cpl-market-greengrocer.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-market-miller.db",
+      "label": "CPL - Market Miller",
+      "path": "packs/cpl-market-miller.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-market-salter.db",
+      "label": "CPL - Market Salter",
+      "path": "packs/cpl-market-salter.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-mason.db",
+      "label": "CPL - Mason",
+      "path": "packs/cpl-mason.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-metalcrafter-general.db",
+      "label": "CPL - Metalcrafter - General",
+      "path": "packs/cpl-metalcrafter-general.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-metalcrafter-lia-kavair.db",
+      "label": "CPL - Metalcrafter - Lia-Kavair",
+      "path": "packs/cpl-metalcrafter-lia-kavair.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-metalcrafter-locksmith.db",
+      "label": "CPL - Metalcrafter - Locksmith",
+      "path": "packs/cpl-metalcrafter-locksmith.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-metalcrafter-toolsmith.db",
+      "label": "CPL - Metalcrafter - Toolsmith",
+      "path": "packs/cpl-metalcrafter-toolsmith.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-miner.db",
+      "label": "CPL - Miner",
+      "path": "packs/cpl-miner.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-miscellaneous.db",
+      "label": "CPL - Miscellaneous",
+      "path": "packs/cpl-miscellaneous.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-ostler.db",
+      "label": "CPL - Ostler",
+      "path": "packs/cpl-ostler.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-perfumer.db",
+      "label": "CPL - Perfumer",
+      "path": "packs/cpl-perfumer.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-physician.db",
+      "label": "CPL - Physician",
+      "path": "packs/cpl-physician.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-pilot.db",
+      "label": "CPL - Pilot",
+      "path": "packs/cpl-pilot.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-potter.db",
+      "label": "CPL - Potter",
+      "path": "packs/cpl-potter.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-ropemaker.db",
+      "label": "CPL - Ropemaker",
+      "path": "packs/cpl-ropemaker.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-shipwright.db",
+      "label": "CPL - Shipwright",
+      "path": "packs/cpl-shipwright.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-tentmaker.db",
+      "label": "CPL - Tentmaker",
+      "path": "packs/cpl-tentmaker.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-thatcher.db",
+      "label": "CPL - Thatcher",
+      "path": "packs/cpl-thatcher.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-timberwright.db",
+      "label": "CPL - Timerwright",
+      "path": "packs/cpl-timberwright.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-whaler.db",
+      "label": "CPL - Whaler",
+      "path": "packs/cpl-whaler.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-woodcrafter-cooper.db",
+      "label": "CPL - Woodcrafter - Cooper",
+      "path": "packs/cpl-woodcrafter-cooper.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-woodcrafter-furniture.db",
+      "label": "CPL - Woodcrafter - Furniture",
+      "path": "packs/cpl-woodcrafter-furniture.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-woodcrafter-general.db",
+      "label": "CPL - Woodcrafter - General",
+      "path": "packs/cpl-woodcrafter-general.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-woodcrafter-transport.db",
+      "label": "CPL - Woodcrafter - Transport",
+      "path": "packs/cpl-woodcrafter-transport.db",
+      "entity": "Item"
+    },
+    {
+      "name": "cpl-armourer.db",
+      "label": "CPL - Armourer",
+      "path": "packs/cpl-armourer.db",
+      "entity": "Item"
+    }
+  ],
+  "url": "https://github.com/toastygm/hm3-cpl/",
+  "manifest": "https://raw.githubusercontent.com/toastygm/hm3-cpl/master/module.json",
+  "download": "https://github.com/toastygm/hm3-cpl/archive/v1.0.0.zip"
+}
