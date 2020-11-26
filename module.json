@@ -240,12 +240,6 @@
       "label": "CPL - Woodcrafter - Transport",
       "path": "packs/cpl-woodcrafter-transport.db",
       "entity": "Item"
-    },
-    {
-      "name": "cpl-armourer.db",
-      "label": "CPL - Armourer",
-      "path": "packs/cpl-armourer.db",
-      "entity": "Item"
     }
   ],
   "url": "https://github.com/toastygm/hm3-cpl/",
