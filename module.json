@@ -2,7 +2,7 @@
   "name": "hm3-cpl",
   "title": "Harn Comprehensive Price Lists",
   "description": "Provides lists of items from the Comprehensive Price Lists on Lythia.com",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimumCoreVersion": "0.6.5",
   "compatibleCoreVersion": "0.7.7",
   "author": "toastygm",
@@ -41,12 +41,6 @@
       "name": "cpl-glassworker.db",
       "label": "CPL - Glassworker",
       "path": "packs/cpl-glassworker.db",
-      "entity": "Item"
-    },
-    {
-      "name": "cpl-harper.db",
-      "label": "CPL - Harper",
-      "path": "packs/cpl-harper.db",
       "entity": "Item"
     },
     {
@@ -244,5 +238,5 @@
   ],
   "url": "https://github.com/toastygm/hm3-cpl/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm3-cpl/master/module.json",
-  "download": "https://github.com/toastygm/hm3-cpl/archive/v1.0.0.zip"
+  "download": "https://github.com/toastygm/hm3-cpl/archive/v1.0.1.zip"
 }
