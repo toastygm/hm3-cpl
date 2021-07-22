@@ -14,6 +14,8 @@
     }
   ],
   "bugs": "https://github.com/toastygm/hm3-cpl/issues",
+  "license": "LICENSE",
+  "readme": "README.md",
   "packs": [
     {
       "name": "cpl-apothecary.db",
