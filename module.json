@@ -1,21 +1,13 @@
 {
-  "name": "hm3-gear",
-  "title": "Harn Gear",
-  "description": "",
+  "name": "hm3-cpl",
+  "title": "Harn Comprehensive Price Lists",
+  "description": "Provides lists of items from the Comprehensive Price Lists on Lythia.com",
   "version": "1.2.0",
   "minimumCoreVersion": "0.8.5",
-  "compatibleCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.6",
   "minimumSystemVersion": "1.2.9",
   "system": ["hm3"],
-  "authors": [
-    {
-      "name": "Tom Rodriguez",
-      "discord": "toasty#8538"
-    }
-  ],
-  "bugs": "https://github.com/toastygm/hm3-cpl/issues",
-  "license": "LICENSE",
-  "readme": "README.md",
+  "author": "toastygm",
   "packs": [
     {
       "name": "cpl-apothecary.db",
@@ -254,8 +246,5 @@
   ],
   "url": "https://github.com/toastygm/hm3-cpl/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm3-cpl/master/module.json",
-  "download": "https://github.com/toastygm/hm3-cpl/archive/v1.2.0.zip",
-  "flags": {
-    "allowBugReporter": true
-  }
+  "download": "https://github.com/toastygm/hm3-cpl/archive/v1.2.0.zip"
 }
