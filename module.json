@@ -21,6 +21,12 @@
       "entity": "Item"
     },
     {
+      "name": "cpl-armorer",
+      "label": "CPL - Armorer",
+      "path": "packs/cpl-armorer.db",
+      "entity": "Item"
+    },
+    {
       "name": "cpl-bonecarver",
       "label": "CPL - Bonecarver",
       "path": "packs/cpl-bonecarver.db",
