@@ -2,12 +2,17 @@
   "name": "hm3-cpl",
   "title": "Harn Comprehensive Price Lists",
   "description": "Provides lists of items from the Comprehensive Price Lists on Lythia.com",
-  "version": "1.2.0",
-  "minimumCoreVersion": "0.8.5",
-  "compatibleCoreVersion": "0.8.6",
+  "version": "1.2.1",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
   "minimumSystemVersion": "1.2.9",
   "system": ["hm3"],
-  "author": "toastygm",
+  "authors": [
+    {
+      "name": "Toasty",
+      "discord": "toasty#8538"
+    }
+  ],
   "packs": [
     {
       "name": "cpl-apothecary",
