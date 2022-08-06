@@ -7,8 +7,7 @@
   "authors": [
     {
       "name": "Toasty",
-      "discord": "toasty#8538",
-      "flags": {}
+      "discord": "toasty#8538"
     }
   ],
   "minimumCoreVersion": "10",
@@ -21,9 +20,8 @@
       "id": "hm3",
       "type": "system",
       "manifest": "https://github.com/toastygm/HarnMaster-3-FoundryVTT/releases/latest/download/system.json",
-  "minimumCoreVersion": "10",
       "compatibility": {
-        "verified": "1.4.0"
+        "minimum": "1.4.0"
       }
     }]
   },
@@ -33,320 +31,280 @@
       "label": "CPL - Apothecary",
       "path": "packs/cpl-apothecary.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-armorer",
       "label": "CPL - Armorer",
       "path": "packs/cpl-armorer.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-bonecarver",
       "label": "CPL - Bonecarver",
       "path": "packs/cpl-bonecarver.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-chandler",
       "label": "CPL - Chandler",
       "path": "packs/cpl-chandler.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-clothier",
       "label": "CPL - Clothier",
       "path": "packs/cpl-clothier.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-dyer",
       "label": "CPL - Dyer",
       "path": "packs/cpl-dyer.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-glassworker",
       "label": "CPL - Glassworker",
       "path": "packs/cpl-glassworker.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-harper",
       "label": "CPL - Harper",
       "path": "packs/cpl-harper.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-hideworker",
       "label": "CPL - Hideworker",
       "path": "packs/cpl-hideworker.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-innkeeper",
       "label": "CPL - Innkeeper",
       "path": "packs/cpl-innkeeper.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-jeweler",
       "label": "CPL - Jeweler",
       "path": "packs/cpl-jeweler.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-lexigrapher",
       "label": "CPL - Lexigrapher",
       "path": "packs/cpl-lexigrapher.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-market-butcher",
       "label": "CPL - Market Butcher",
       "path": "packs/cpl-market-butcher.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-market-farmer",
       "label": "CPL - Market Farmer",
       "path": "packs/cpl-market-farmer.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-market-fisherman",
       "label": "CPL - Market Fisherman",
       "path": "packs/cpl-market-fisherman.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-market-greengrocer",
       "label": "CPL - Market Greengrocer",
       "path": "packs/cpl-market-greengrocer.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-market-miller",
       "label": "CPL - Market Miller",
       "path": "packs/cpl-market-miller.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-market-salter",
       "label": "CPL - Market Salter",
       "path": "packs/cpl-market-salter.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-mason",
       "label": "CPL - Mason",
       "path": "packs/cpl-mason.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-metalcrafter-general",
       "label": "CPL - Metalcrafter - General",
       "path": "packs/cpl-metalcrafter-general.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-metalcrafter-lia-kavair",
       "label": "CPL - Metalcrafter - Lia-Kavair",
       "path": "packs/cpl-metalcrafter-lia-kavair.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-metalcrafter-locksmith",
       "label": "CPL - Metalcrafter - Locksmith",
       "path": "packs/cpl-metalcrafter-locksmith.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-metalcrafter-toolmaker",
       "label": "CPL - Metalcrafter - Toolmaker",
       "path": "packs/cpl-metalcrafter-toolmaker.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-miner",
       "label": "CPL - Miner",
       "path": "packs/cpl-miner.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-miscellaneous",
       "label": "CPL - Miscellaneous",
       "path": "packs/cpl-miscellaneous.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-ostler",
       "label": "CPL - Ostler",
       "path": "packs/cpl-ostler.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-perfumer",
       "label": "CPL - Perfumer",
       "path": "packs/cpl-perfumer.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-physician",
       "label": "CPL - Physician",
       "path": "packs/cpl-physician.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-pilot",
       "label": "CPL - Pilot",
       "path": "packs/cpl-pilot.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-potter",
       "label": "CPL - Potter",
       "path": "packs/cpl-potter.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-ropemaker",
       "label": "CPL - Ropemaker",
       "path": "packs/cpl-ropemaker.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-shipwright",
       "label": "CPL - Shipwright",
       "path": "packs/cpl-shipwright.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-tentmaker",
       "label": "CPL - Tentmaker",
       "path": "packs/cpl-tentmaker.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-thatcher",
       "label": "CPL - Thatcher",
       "path": "packs/cpl-thatcher.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-timberwright",
       "label": "CPL - Timerwright",
       "path": "packs/cpl-timberwright.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-whaler",
       "label": "CPL - Whaler",
       "path": "packs/cpl-whaler.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-woodcrafter-cooper",
       "label": "CPL - Woodcrafter - Cooper",
       "path": "packs/cpl-woodcrafter-cooper.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-woodcrafter-furniture",
       "label": "CPL - Woodcrafter - Furniture",
       "path": "packs/cpl-woodcrafter-furniture.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-woodcrafter-general",
       "label": "CPL - Woodcrafter - General",
       "path": "packs/cpl-woodcrafter-general.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     },
     {
       "name": "cpl-woodcrafter-transport",
       "label": "CPL - Woodcrafter - Transport",
       "path": "packs/cpl-woodcrafter-transport.db",
       "system": "hm3",
-      "type": "Item",
-      "flags": {}
+      "type": "Item"
     }
   ],
   "url": "https://github.com/toastygm/hm3-cpl/",
