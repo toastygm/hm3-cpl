@@ -2,7 +2,7 @@
   "name": "hm3-cpl",
   "title": "Harn Comprehensive Price Lists",
   "description": "Provides lists of items from the Comprehensive Price Lists on Lythia.com",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
   "minimumSystemVersion": "1.2.9",
@@ -257,6 +257,6 @@
   ],
   "url": "https://github.com/toastygm/hm3-cpl/",
   "manifest": "https://github.com/toastygm/hm3-cpl/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm3-cpl/releases/latest/download/module.zip"
+  "download": "https://github.com/toastygm/hm3-cpl/releases/download/v1.2.2/module.zip"
 
 }
