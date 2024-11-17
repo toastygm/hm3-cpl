@@ -26,10 +26,58 @@
       }
     ]
   },
+  "packFolders": [
+    {
+      "name": "Comprehensive Price Lists",
+      "sorting": "m",
+      "packs": [
+        "cpl-apothecary",
+        "cpl-armorer",
+        "cpl-bonecarver",
+        "cpl-chandler",
+        "cpl-clothier",
+        "cpl-dyer",
+        "cpl-glassworker",
+        "cpl-harper",
+        "cpl-hideworker",
+        "cpl-innkeeper",
+        "cpl-jeweler",
+        "cpl-lexigrapher",
+        "cpl-market-butcher",
+        "cpl-market-farmer",
+        "cpl-market-fisherman",
+        "cpl-market-greengrocer",
+        "cpl-market-miller",
+        "cpl-market-salter",
+        "cpl-mason",
+        "cpl-metalcrafter-general",
+        "cpl-metalcrafter-lia-kavair",
+        "cpl-metalcrafter-locksmith",
+        "cpl-metalcrafter-toolmaker",
+        "cpl-miner",
+        "cpl-miscellaneous",
+        "cpl-ostler",
+        "cpl-perfumer",
+        "cpl-physician",
+        "cpl-pilot",
+        "cpl-potter",
+        "cpl-ropemaker",
+        "cpl-shipwright",
+        "cpl-tentmaker",
+        "cpl-thatcher",
+        "cpl-timberwright",
+        "cpl-whaler",
+        "cpl-woodcrafter-cooper",
+        "cpl-woodcrafter-furniture",
+        "cpl-woodcrafter-general",
+        "cpl-woodcrafter-transport"
+      ]
+    }
+  ],
   "packs": [
     {
       "name": "cpl-apothecary",
-      "label": "CPL - Apothecary",
+      "label": "Apothecary",
       "path": "packs/cpl-apothecary",
       "system": "hm3",
       "type": "Item",
@@ -41,7 +89,7 @@
     },
     {
       "name": "cpl-armorer",
-      "label": "CPL - Armorer",
+      "label": "Armorer",
       "path": "packs/cpl-armorer",
       "system": "hm3",
       "type": "Item",
@@ -53,7 +101,7 @@
     },
     {
       "name": "cpl-bonecarver",
-      "label": "CPL - Bonecarver",
+      "label": "Bonecarver",
       "path": "packs/cpl-bonecarver",
       "system": "hm3",
       "type": "Item",
@@ -65,7 +113,7 @@
     },
     {
       "name": "cpl-chandler",
-      "label": "CPL - Chandler",
+      "label": "Chandler",
       "path": "packs/cpl-chandler",
       "system": "hm3",
       "type": "Item",
@@ -77,7 +125,7 @@
     },
     {
       "name": "cpl-clothier",
-      "label": "CPL - Clothier",
+      "label": "Clothier",
       "path": "packs/cpl-clothier",
       "system": "hm3",
       "type": "Item",
@@ -89,7 +137,7 @@
     },
     {
       "name": "cpl-dyer",
-      "label": "CPL - Dyer",
+      "label": "Dyer",
       "path": "packs/cpl-dyer",
       "system": "hm3",
       "type": "Item",
@@ -101,7 +149,7 @@
     },
     {
       "name": "cpl-glassworker",
-      "label": "CPL - Glassworker",
+      "label": "Glassworker",
       "path": "packs/cpl-glassworker",
       "system": "hm3",
       "type": "Item",
@@ -113,7 +161,7 @@
     },
     {
       "name": "cpl-harper",
-      "label": "CPL - Harper",
+      "label": "Harper",
       "path": "packs/cpl-harper",
       "system": "hm3",
       "type": "Item",
@@ -125,7 +173,7 @@
     },
     {
       "name": "cpl-hideworker",
-      "label": "CPL - Hideworker",
+      "label": "Hideworker",
       "path": "packs/cpl-hideworker",
       "system": "hm3",
       "type": "Item",
@@ -137,7 +185,7 @@
     },
     {
       "name": "cpl-innkeeper",
-      "label": "CPL - Innkeeper",
+      "label": "Innkeeper",
       "path": "packs/cpl-innkeeper",
       "system": "hm3",
       "type": "Item",
@@ -149,7 +197,7 @@
     },
     {
       "name": "cpl-jeweler",
-      "label": "CPL - Jeweler",
+      "label": "Jeweler",
       "path": "packs/cpl-jeweler",
       "system": "hm3",
       "type": "Item",
@@ -161,7 +209,7 @@
     },
     {
       "name": "cpl-lexigrapher",
-      "label": "CPL - Lexigrapher",
+      "label": "Lexigrapher",
       "path": "packs/cpl-lexigrapher",
       "system": "hm3",
       "type": "Item",
@@ -173,7 +221,7 @@
     },
     {
       "name": "cpl-market-butcher",
-      "label": "CPL - Market Butcher",
+      "label": "Market Butcher",
       "path": "packs/cpl-market-butcher",
       "system": "hm3",
       "type": "Item",
@@ -185,7 +233,7 @@
     },
     {
       "name": "cpl-market-farmer",
-      "label": "CPL - Market Farmer",
+      "label": "Market Farmer",
       "path": "packs/cpl-market-farmer",
       "system": "hm3",
       "type": "Item",
@@ -197,7 +245,7 @@
     },
     {
       "name": "cpl-market-fisherman",
-      "label": "CPL - Market Fisherman",
+      "label": "Market Fisherman",
       "path": "packs/cpl-market-fisherman",
       "system": "hm3",
       "type": "Item",
@@ -209,7 +257,7 @@
     },
     {
       "name": "cpl-market-greengrocer",
-      "label": "CPL - Market Greengrocer",
+      "label": "Market Greengrocer",
       "path": "packs/cpl-market-greengrocer",
       "system": "hm3",
       "type": "Item",
@@ -221,7 +269,7 @@
     },
     {
       "name": "cpl-market-miller",
-      "label": "CPL - Market Miller",
+      "label": "Market Miller",
       "path": "packs/cpl-market-miller",
       "system": "hm3",
       "type": "Item",
@@ -233,7 +281,7 @@
     },
     {
       "name": "cpl-market-salter",
-      "label": "CPL - Market Salter",
+      "label": "Market Salter",
       "path": "packs/cpl-market-salter",
       "system": "hm3",
       "type": "Item",
@@ -245,7 +293,7 @@
     },
     {
       "name": "cpl-mason",
-      "label": "CPL - Mason",
+      "label": "Mason",
       "path": "packs/cpl-mason",
       "system": "hm3",
       "type": "Item",
@@ -257,7 +305,7 @@
     },
     {
       "name": "cpl-metalcrafter-general",
-      "label": "CPL - Metalcrafter - General",
+      "label": "Metalcrafter - General",
       "path": "packs/cpl-metalcrafter-general",
       "system": "hm3",
       "type": "Item",
@@ -269,7 +317,7 @@
     },
     {
       "name": "cpl-metalcrafter-lia-kavair",
-      "label": "CPL - Metalcrafter - Lia-Kavair",
+      "label": "Metalcrafter - Lia-Kavair",
       "path": "packs/cpl-metalcrafter-lia-kavair",
       "system": "hm3",
       "type": "Item",
@@ -281,7 +329,7 @@
     },
     {
       "name": "cpl-metalcrafter-locksmith",
-      "label": "CPL - Metalcrafter - Locksmith",
+      "label": "Metalcrafter - Locksmith",
       "path": "packs/cpl-metalcrafter-locksmith",
       "system": "hm3",
       "type": "Item",
@@ -293,7 +341,7 @@
     },
     {
       "name": "cpl-metalcrafter-toolmaker",
-      "label": "CPL - Metalcrafter - Toolmaker",
+      "label": "Metalcrafter - Toolmaker",
       "path": "packs/cpl-metalcrafter-toolmaker",
       "system": "hm3",
       "type": "Item",
@@ -305,7 +353,7 @@
     },
     {
       "name": "cpl-miner",
-      "label": "CPL - Miner",
+      "label": "Miner",
       "path": "packs/cpl-miner",
       "system": "hm3",
       "type": "Item",
@@ -317,7 +365,7 @@
     },
     {
       "name": "cpl-miscellaneous",
-      "label": "CPL - Miscellaneous",
+      "label": "Miscellaneous",
       "path": "packs/cpl-miscellaneous",
       "system": "hm3",
       "type": "Item",
@@ -329,7 +377,7 @@
     },
     {
       "name": "cpl-ostler",
-      "label": "CPL - Ostler",
+      "label": "Ostler",
       "path": "packs/cpl-ostler",
       "system": "hm3",
       "type": "Item",
@@ -341,7 +389,7 @@
     },
     {
       "name": "cpl-perfumer",
-      "label": "CPL - Perfumer",
+      "label": "Perfumer",
       "path": "packs/cpl-perfumer",
       "system": "hm3",
       "type": "Item",
@@ -353,7 +401,7 @@
     },
     {
       "name": "cpl-physician",
-      "label": "CPL - Physician",
+      "label": "Physician",
       "path": "packs/cpl-physician",
       "system": "hm3",
       "type": "Item",
@@ -365,7 +413,7 @@
     },
     {
       "name": "cpl-pilot",
-      "label": "CPL - Pilot",
+      "label": "Pilot",
       "path": "packs/cpl-pilot",
       "system": "hm3",
       "type": "Item",
@@ -377,7 +425,7 @@
     },
     {
       "name": "cpl-potter",
-      "label": "CPL - Potter",
+      "label": "Potter",
       "path": "packs/cpl-potter",
       "system": "hm3",
       "type": "Item",
@@ -389,7 +437,7 @@
     },
     {
       "name": "cpl-ropemaker",
-      "label": "CPL - Ropemaker",
+      "label": "Ropemaker",
       "path": "packs/cpl-ropemaker",
       "system": "hm3",
       "type": "Item",
@@ -401,7 +449,7 @@
     },
     {
       "name": "cpl-shipwright",
-      "label": "CPL - Shipwright",
+      "label": "Shipwright",
       "path": "packs/cpl-shipwright",
       "system": "hm3",
       "type": "Item",
@@ -413,7 +461,7 @@
     },
     {
       "name": "cpl-tentmaker",
-      "label": "CPL - Tentmaker",
+      "label": "Tentmaker",
       "path": "packs/cpl-tentmaker",
       "system": "hm3",
       "type": "Item",
@@ -425,7 +473,7 @@
     },
     {
       "name": "cpl-thatcher",
-      "label": "CPL - Thatcher",
+      "label": "Thatcher",
       "path": "packs/cpl-thatcher",
       "system": "hm3",
       "type": "Item",
@@ -437,7 +485,7 @@
     },
     {
       "name": "cpl-timberwright",
-      "label": "CPL - Timerwright",
+      "label": "Timerwright",
       "path": "packs/cpl-timberwright",
       "system": "hm3",
       "type": "Item",
@@ -449,7 +497,7 @@
     },
     {
       "name": "cpl-whaler",
-      "label": "CPL - Whaler",
+      "label": "Whaler",
       "path": "packs/cpl-whaler",
       "system": "hm3",
       "type": "Item",
@@ -461,7 +509,7 @@
     },
     {
       "name": "cpl-woodcrafter-cooper",
-      "label": "CPL - Woodcrafter - Cooper",
+      "label": "Woodcrafter - Cooper",
       "path": "packs/cpl-woodcrafter-cooper",
       "system": "hm3",
       "type": "Item",
@@ -473,7 +521,7 @@
     },
     {
       "name": "cpl-woodcrafter-furniture",
-      "label": "CPL - Woodcrafter - Furniture",
+      "label": "Woodcrafter - Furniture",
       "path": "packs/cpl-woodcrafter-furniture",
       "system": "hm3",
       "type": "Item",
@@ -485,7 +533,7 @@
     },
     {
       "name": "cpl-woodcrafter-general",
-      "label": "CPL - Woodcrafter - General",
+      "label": "Woodcrafter - General",
       "path": "packs/cpl-woodcrafter-general",
       "system": "hm3",
       "type": "Item",
@@ -497,7 +545,7 @@
     },
     {
       "name": "cpl-woodcrafter-transport",
-      "label": "CPL - Woodcrafter - Transport",
+      "label": "Woodcrafter - Transport",
       "path": "packs/cpl-woodcrafter-transport",
       "system": "hm3",
       "type": "Item",
@@ -510,5 +558,5 @@
   ],
   "url": "https://github.com/toastygm/hm3-cpl/",
   "manifest": "https://github.com/toastygm/hm3-cpl/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm3-cpl/releases/download/v1.4.0/module.zip"
+  "download": "https://github.com/toastygm/hm3-cpl/releases/download/v1.4.1/module.zip"
 }
